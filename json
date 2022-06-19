@@ -2,7 +2,7 @@
   "station": [
     {
       "name": "Pulse EDM",
-      "streamURL": "http://pulseedm.cdnstream1.com:8124/1373_128.m3u",
+      "streamURL": "http://naxos.cdnstream.com/1373_128",
       "imageURL": "pulseedm.png",
       "imageURLdark": "pulseedm.png",
       "desc": "Elektroniğin Sesi"
@@ -212,21 +212,21 @@
     },
     {
       "name": "JoyTurk Akustik",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC004_SO1_SC",
       "imageURL": "joyturkakustik.png",
       "imageURLdark": "joyturkakustik.png",
       "desc": "Biz Bize Müzik"
     },
     {
       "name": "JoyTurk Rock",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC",
       "imageURL": "joyturkrock.png",
       "imageURLdark": "joyturkrock.png",
       "desc": "Türkçe Rock'ın En İyisi"
     },
     {
       "name": "JoyJazz",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZ_SC",
       "imageURL": "joyjazz.png",
       "imageURLdark": "joyjazz.png",
       "desc": "Simply Jazz"
