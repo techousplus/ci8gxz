@@ -212,21 +212,21 @@
     },
     {
       "name": "JoyTurk Akustik",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC004_SO1_SC",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC004_SO1AAC.aac",
       "imageURL": "joyturkakustik.png",
       "imageURLdark": "joyturkakustik.png",
       "desc": "Biz Bize Müzik"
     },
     {
       "name": "JoyTurk Rock",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCKAAC.aac",
       "imageURL": "joyturkrock.png",
       "imageURLdark": "joyturkrock.png",
       "desc": "Türkçe Rock'ın En İyisi"
     },
     {
       "name": "JoyJazz",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZ_SC",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZAAC.aac",
       "imageURL": "joyjazz.png",
       "imageURLdark": "joyjazz.png",
       "desc": "Simply Jazz"
