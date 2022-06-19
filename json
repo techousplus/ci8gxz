@@ -47,49 +47,49 @@
       "streamURL": "http://shoutcast.radyogrup.com:2030/;",
       "imageURL": "paldance.png",
       "imageURLdark": "paldance.png",
-      "desc": "Unutulmayan Şarkılar"
+      "desc": "Dans Hit Şarkılar"
     },
     {
       "name": "Pal Alaturka",
       "streamURL": "http://shoutcast.radyogrup.com:3050/;",
       "imageURL": "palalaturka.png",
       "imageURLdark": "palalaturka.png",
-      "desc": "Unutulmayan Şarkılar"
+      "desc": "Türk Sanat Müziği"
     },
     {
       "name": "Pal Orient",
       "streamURL": "http://shoutcast.radyogrup.com:1050/;",
       "imageURL": "palorient.png",
       "imageURLdark": "palorient.png",
-      "desc": "Unutulmayan Şarkılar"
+      "desc": "Enerjinizi Yükseltin"
     },
     {
       "name": "Pal Legend",
       "streamURL": "http://shoutcast.radyogrup.com:3030/;",
       "imageURL": "pallegend.png",
       "imageURLdark": "pallegend.png",
-      "desc": "Unutulmayan Şarkılar"
+      "desc": "Yabancı Nostalji Şarkılar"
     },
     {
       "name": "Pal Remix",
       "streamURL": "http://shoutcast.radyogrup.com:2010/;",
       "imageURL": "palremix.png",
       "imageURLdark": "palremix.png",
-      "desc": "Unutulmayan Şarkılar"
+      "desc": "Disko Cebinizde"
     },
     {
       "name": "Pal Besk",
       "streamURL": "http://shoutcast.radyogrup.com:3010/;",
       "imageURL": "palbesk.png",
       "imageURLdark": "palbesk.png",
-      "desc": "Unutulmayan Şarkılar"
+      "desc": "Bir Radyodan Daha Fazlası"
     },
     {
       "name": "Pal Ala",
       "streamURL": "http://shoutcast.radyogrup.com:3040/;",
       "imageURL": "palala.png",
       "imageURLdark": "palala.png",
-      "desc": "Unutulmayan Şarkılar"
+      "desc": "Şiir Radyo"
     },
     {
       "name": "Mydonose",
@@ -201,35 +201,35 @@
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FMAAC.aac",
       "imageURL": "joyfm.png",
       "imageURLdark": "joyfm.png",
-      "desc": "Yabancı slow müzik severlerin tercihi"
+      "desc": "Easy Listening"
     },
     {
       "name": "JoyTurk",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
       "imageURL": "joyturk.png",
       "imageURLdark": "joyturk.png",
-      "desc": "Türkçe slow müzik severlerin tercihi"
+      "desc": "Türkçe Slow'un En İyisi"
     },
     {
       "name": "JoyTurk Akustik",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
       "imageURL": "joyturkakustik.png",
       "imageURLdark": "joyturkakustik.png",
-      "desc": "Türkçe slow müzik severlerin tercihi"
+      "desc": "Biz Bize Müzik"
     },
     {
       "name": "JoyTurk Rock",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
       "imageURL": "joyturkrock.png",
       "imageURLdark": "joyturkrock.png",
-      "desc": "Türkçe slow müzik severlerin tercihi"
+      "desc": "Türkçe Rock'ın En İyisi"
     },
     {
-      "name": "Joy Jazz",
+      "name": "JoyJazz",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
       "imageURL": "joyjazz.png",
       "imageURLdark": "joyjazz.png",
-      "desc": "Türkçe slow müzik severlerin tercihi"
+      "desc": "Simply Jazz"
     },
     {
       "name": "SlowTurk",
@@ -554,6 +554,13 @@
       "desc": "Kalbinin Sesi"
     },
     {
+      "name": "Kent FM",
+      "streamURL": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8",
+      "imageURL": "kentfm.png",
+      "imageURLdark": "kentfm.png",
+      "desc": "Türkiye'nin En Samimi Radyosu"
+    },
+    {
       "name": "Mega FM",
       "streamURL": "http://46.105.35.48:9346/;",
       "imageURL": "megafm.png",
@@ -782,21 +789,21 @@
       "streamURL": "https://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8",
       "imageURL": "worldhits.png",
       "imageURLdark": "worldhits.png",
-      "desc": "Rap'in Radyosu"
+      "desc": "“Hit” ler burada..."
     },
     {
       "name": "Radyo Vokal",
       "streamURL": "https://moondigitalmaster.radyotvonline.net/radyovokal/playlist.m3u8",
       "imageURL": "radyovokal.png",
       "imageURLdark": "radyovokal.png",
-      "desc": "Rap'in Radyosu"
+      "desc": "Türkçe Pop Müzik"
     },
     {
       "name": "Radyo Trafik",
       "streamURL": "https://ssl4.radyotvonline.com/radyohome/radyotrafikhome.stream_aac/playlist.m3u8",
       "imageURL": "radyotrafik.png",
       "imageURLdark": "radyotrafik.png",
-      "desc": "Rap'in Radyosu"
+      "desc": "Türkiye'nin ilk trafik radyosu."
     },
     {
       "name": "Yön Radyo",
@@ -804,6 +811,34 @@
       "imageURL": "Yön_Radyo_logosu.png",
       "imageURLdark": "Yön_Radyo_logosu.png",
       "desc": "Türküler artık her yerde"
+    },
+    {
+      "name": "Radyo Spor",
+      "streamURL": "https://ssl4.radyotvonline.com/radyohome/radyosporhome.stream_aac/playlist.m3u8",
+      "imageURL": "radyospor.png",
+      "imageURLdark": "radyospor.png",
+      "desc": "Türküler artık her yerde"
+    },
+    {
+      "name": "Radyo Gol",
+      "streamURL": "https://moondigitalmaster.radyotvonline.net/radyogol/playlist.m3u8",
+      "imageURL": "radyogol.png",
+      "imageURLdark": "radyogol.png",
+      "desc": "Türkiye'nin En Genç Spor Radyosu!"
+    },
+    {
+      "name": "Radyo Fenerbahçe",
+      "streamURL": "https://ssl4.radyotvonline.com/radyohome/radyofenerbahcehome.stream_aac/playlist.m3u8",
+      "imageURL": "radyofb.png",
+      "imageURLdark": "radyofb.png",
+      "desc": "Türkiye’nin Karasal Yayın Yapan İlk ve Tek Spor Kulübü Radyosu"
+    },
+    {
+      "name": "Hayatta Beşiktaş",
+      "streamURL": "https://ssl190.ozelip.com/asistan/stream/af82ab78740bd24928d4e402c7893001",
+      "imageURL": "hayattabesiktas.png",
+      "imageURLdark": "hayattabesiktas.png",
+      "desc": "Taraftarın Sesi!"
     },
     {
       "name": "Dream Türk Radyo",
