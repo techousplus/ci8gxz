@@ -1,0 +1,872 @@
+{
+  "station": [
+    {
+      "name": "Pulse EDM",
+      "streamURL": "http://pulseedm.cdnstream1.com:8124/1373_128.m3u",
+      "imageURL": "pulseedm.png",
+      "imageURLdark": "pulseedm.png",
+      "desc": "Elektroniğin Sesi"
+    },
+    {
+      "name": "Pal Station",
+      "streamURL": "http://shoutcast.radyogrup.com:1020/;",
+      "imageURL": "palstation.png",
+      "imageURLdark": "palstation.png",
+      "desc": "Sadece Hit Müzik"
+    },
+    {
+      "name": "Pal FM",
+      "streamURL": "http://shoutcast.radyogrup.com:1030/;",
+      "imageURL": "palfm.png",
+      "imageURLdark": "palfm.png",
+      "desc": "Müziğin Türkçesi"
+    },
+    {
+      "name": "Pal Slow",
+      "streamURL": "http://shoutcast.radyogrup.com:2020/;",
+      "imageURL": "palslow.png",
+      "imageURLdark": "palslow.png",
+      "desc": "Slow Türkçe Şarkılar"
+    },
+    {
+      "name": "Pal Doğa",
+      "streamURL": "http://shoutcast.radyogrup.com:1040/;",
+      "imageURL": "paldoga.png",
+      "imageURLdark": "paldoga.png",
+      "desc": "Türkülerin Hayat Bulduğu Radyo"
+    },
+    {
+      "name": "Pal Nostalji",
+      "streamURL": "http://shoutcast.radyogrup.com:1010/;",
+      "imageURL": "palnostalji.png",
+      "imageURLdark": "palnostalji.png",
+      "desc": "Unutulmayan Şarkılar"
+    },
+    {
+      "name": "Pal Dance",
+      "streamURL": "http://shoutcast.radyogrup.com:2030/;",
+      "imageURL": "paldance.png",
+      "imageURLdark": "paldance.png",
+      "desc": "Unutulmayan Şarkılar"
+    },
+    {
+      "name": "Pal Alaturka",
+      "streamURL": "http://shoutcast.radyogrup.com:3050/;",
+      "imageURL": "palalaturka.png",
+      "imageURLdark": "palalaturka.png",
+      "desc": "Unutulmayan Şarkılar"
+    },
+    {
+      "name": "Pal Orient",
+      "streamURL": "http://shoutcast.radyogrup.com:1050/;",
+      "imageURL": "palorient.png",
+      "imageURLdark": "palorient.png",
+      "desc": "Unutulmayan Şarkılar"
+    },
+    {
+      "name": "Pal Legend",
+      "streamURL": "http://shoutcast.radyogrup.com:3030/;",
+      "imageURL": "pallegend.png",
+      "imageURLdark": "pallegend.png",
+      "desc": "Unutulmayan Şarkılar"
+    },
+    {
+      "name": "Pal Remix",
+      "streamURL": "http://shoutcast.radyogrup.com:2010/;",
+      "imageURL": "palremix.png",
+      "imageURLdark": "palremix.png",
+      "desc": "Unutulmayan Şarkılar"
+    },
+    {
+      "name": "Pal Besk",
+      "streamURL": "http://shoutcast.radyogrup.com:3010/;",
+      "imageURL": "palbesk.png",
+      "imageURLdark": "palbesk.png",
+      "desc": "Unutulmayan Şarkılar"
+    },
+    {
+      "name": "Pal Ala",
+      "streamURL": "http://shoutcast.radyogrup.com:3040/;",
+      "imageURL": "palala.png",
+      "imageURLdark": "palala.png",
+      "desc": "Unutulmayan Şarkılar"
+    },
+    {
+      "name": "Mydonose",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC010_SO1_SC",
+      "imageURL": "Radio_Mydonose_logosu.png",
+      "imageURLdark": "Radio_Mydonose_logosu.png",
+      "desc": "İlklerin Radyosu"
+    },
+    {
+      "name": "Mydonose Türk",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC016_SO1_SC",
+      "imageURL": "mydonoseturk.png",
+      "imageURLdark": "mydonoseturk.png",
+      "desc": "Hit Türkçe Şarkılar"
+    },
+    {
+      "name": "Fenomen",
+      "streamURL": "http://fenomen.listenfenomen.com/fenomen/128/icecast.audio",
+      "imageURL": "fenomen.png",
+      "imageURLdark": "fenomen.png",
+      "desc": "Maksimum Hit Müzik"
+    },
+    {
+      "name": "Fenomen Pop",
+      "streamURL": "http://fenomenoriental.listenfenomen.com/fenomenpop/128/icecast.audio",
+      "imageURL": "fenomenpop.png",
+      "imageURLdark": "fenomenpop.png",
+      "desc": "Popun kalbi burada atıyor"
+    },
+    {
+      "name": "Fenomen Türk",
+      "streamURL": "http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio",
+      "imageURL": "fenomenturk.png",
+      "imageURLdark": "fenomenturk.png",
+      "desc": "Eğlencenin Adresi"
+    },
+    {
+      "name": "Fenomen Dans",
+      "streamURL": "https://listen.radyofenomen.com/fenomendans/128/icecast.audio",
+      "imageURL": "fenomendans.png",
+      "imageURLdark": "fenomendans.png",
+      "desc": "En İyi Dans Şarkıları"
+    },
+    {
+      "name": "Fenomen Clubbin",
+      "streamURL": "http://fenomenclubbin.listenfenomen.com/fenomenclubbin/128/icecast.audio",
+      "imageURL": "fenomenclubbin.png",
+      "imageURLdark": "fenomenclubbin.png",
+      "desc": "Club ve Disco Şarkıları"
+    },
+    {
+      "name": "Fenomen Akustik",
+      "streamURL": "https://listen.radyofenomen.com/fenomenakustik/128/icecast.audio",
+      "imageURL": "fenomenakustik.png",
+      "imageURLdark": "fenomenakustik.png",
+      "desc": "Hit Akustik Şarkılar"
+    },
+    {
+      "name": "Fenomen Karışık",
+      "streamURL": "https://listen.radyofenomen.com/fenomenkarisik/128/icecast.audio",
+      "imageURL": "fenomenkarisik.png",
+      "imageURLdark": "fenomenkarisik.png",
+      "desc": "Türkçe ve Yabancı Şarkılar"
+    },
+    {
+      "name": "Fenomen 2010'lar",
+      "streamURL": "https://listen.radyofenomen.com/fenomen2010/128/icecast.audio",
+      "imageURL": "fenomen2010lar.png",
+      "imageURLdark": "fenomen2010lar.png",
+      "desc": "2010'ların Hitleri"
+    },
+    {
+      "name": "Fenomen Oriental",
+      "streamURL": "https://listen.radyofenomen.com/fenomenoriental/128/icecast.audio",
+      "imageURL": "fenomenoriental.png",
+      "imageURLdark": "fenomenoriental.png",
+      "desc": "Oryantal Şarkılar"
+    },
+    {
+      "name": "Fenomen Rap",
+      "streamURL": "http://fenomenoriental.listenfenomen.com/fenomenrap/128/icecast.audio",
+      "imageURL": "fenomenrap.png",
+      "imageURLdark": "fenomenrap.png",
+      "desc": "Hip Hop ve Rap"
+    },
+    {
+      "name": "Fenomen Türkçe Rap",
+      "streamURL": "https://listen.radyofenomen.com/fenomenturkrap/128/icecast.audio",
+      "imageURL": "fenomenturkcerap.png",
+      "imageURLdark": "fenomenturkcerap.png",
+      "desc": "Türkçe Rap Şarkılar"
+    },
+    {
+      "name": "Süper FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM128AAC.aac",
+      "imageURL": "super-fm-logo.png",
+      "imageURLdark": "super-fm-logo.png",
+      "desc": "Kaliteli Hit Şarkılar"
+    },
+    {
+      "name": "Süper 2 FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2128AAC.aac",
+      "imageURL": "süperfm2logo.png",
+      "imageURLdark": "süperfm2logo.png",
+      "desc": "Türkçe Pop Nostalji"
+    },
+    {
+      "name": "Joy FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FMAAC.aac",
+      "imageURL": "joyfm.png",
+      "imageURLdark": "joyfm.png",
+      "desc": "Yabancı slow müzik severlerin tercihi"
+    },
+    {
+      "name": "JoyTurk",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
+      "imageURL": "joyturk.png",
+      "imageURLdark": "joyturk.png",
+      "desc": "Türkçe slow müzik severlerin tercihi"
+    },
+    {
+      "name": "JoyTurk Akustik",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
+      "imageURL": "joyturkakustik.png",
+      "imageURLdark": "joyturkakustik.png",
+      "desc": "Türkçe slow müzik severlerin tercihi"
+    },
+    {
+      "name": "JoyTurk Rock",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
+      "imageURL": "joyturkrock.png",
+      "imageURLdark": "joyturkrock.png",
+      "desc": "Türkçe slow müzik severlerin tercihi"
+    },
+    {
+      "name": "Joy Jazz",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
+      "imageURL": "joyjazz.png",
+      "imageURLdark": "joyjazz.png",
+      "desc": "Türkçe slow müzik severlerin tercihi"
+    },
+    {
+      "name": "SlowTurk",
+      "streamURL": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+      "imageURL": "logo-slowturk.png",
+      "imageURLdark": "logo-slowturk.png",
+      "desc": "Slow Türkçe müzik"
+    },
+    {
+      "name": "Alem FM",
+      "streamURL": "https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8",
+      "imageURL": "alem_fm.png",
+      "imageURLdark": "alem_fm.png",
+      "desc": "Cümle alem burada"
+    },
+    {
+      "name": "Show Radyo",
+      "streamURL": "http://windows.showradyo.com.tr/listen.pls",
+      "imageURL": "showradyo.png",
+      "imageURLdark": "showradyo.png",
+      "desc": "Türkçe Popüler Şarkılar"
+    },
+    {
+      "name": "Metro FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FMAAC_SC",
+      "imageURL": "metrofmyeni.png",
+      "imageURLdark": "metrofmyeni.png",
+      "desc": "Limitsiz Hit Müzik"
+    },
+    {
+      "name": "NRJ Hits",
+      "streamURL": "https://f5-pa6.nrjaudio.fm/fr/30043/aac_64.mp3?origine=playernrj&cdn_path=adswizz_lbs8&adws_out_b1",
+      "imageURL": "players.nrjaudio.fm-live-metadata-player-img-player-files-nrj-logos-640x640-P_NRJ_V3.png",
+      "imageURLdark": "players.nrjaudio.fm-live-metadata-player-img-player-files-nrj-logos-640x640-P_NRJ_V3.png",
+      "desc": "Popüler Şarkılar"
+    },
+    {
+      "name": "Virgin Radio",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_SC",
+      "imageURL": "virginradio.png",
+      "imageURLdark": "virginradio.png",
+      "desc": "Türkçe Rap ve Hip Hop"
+    },
+    {
+      "name": "Kiss FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_FM128AAC.aac",
+      "imageURL": "kissfm.png",
+      "imageURLdark": "kissfm.png",
+      "desc": "Yabancı Pop Şarkılar"
+    },
+    {
+      "name": "Kiss Türk",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_TURK128AAC.aac",
+      "imageURL": "kissturk.png",
+      "imageURLdark": "kissturk.png",
+      "desc": "Türkçe Pop Şarkılar"
+    },
+    {
+      "name": "Power FM",
+      "streamURL": "https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8",
+      "imageURL": "powerFM.png",
+      "imageURLdark": "powerFM.png",
+      "desc": "En İyi En Yeni Müzik"
+    },
+    {
+      "name": "Power Pop",
+      "streamURL": "https://listen.powerapp.com.tr/powerpop/abr/powerpop/128/playlist.m3u8",
+      "imageURL": "powerPop.png",
+      "imageURLdark": "powerPop.png",
+      "desc": "Kaliteli Pop Müzik"
+    },
+    {
+      "name": "Power Dance",
+      "streamURL": "https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8",
+      "imageURL": "powerdance.png",
+      "imageURLdark": "powerdance.png",
+      "desc": "Durmayan Eğlence"
+    },
+    {
+      "name": "Power Love",
+      "streamURL": "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8",
+      "imageURL": "powerlove.png",
+      "imageURLdark": "powerlove.png",
+      "desc": "The Power of Love"
+    },
+    {
+      "name": "Power Deep",
+      "streamURL": "https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/playlist.m3u8",
+      "imageURL": "powerdeep.png",
+      "imageURLdark": "powerdeep.png",
+      "desc": "Elektronik Müzik"
+    },
+    {
+      "name": "Power Türk",
+      "streamURL": "https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
+      "imageURL": "powerturk.png",
+      "imageURLdark": "powerturk.png",
+      "desc": "Önce Müzik"
+    },
+    {
+      "name": "Power Türk Slow",
+      "streamURL": "https://listen.powerapp.com.tr/powerturkslow/abr/powerturkslow/128/playlist.m3u8",
+      "imageURL": "powerturkslow.png",
+      "imageURLdark": "powerturkslow.png",
+      "desc": "World of Music"
+    },
+    {
+      "name": "Power Türk Akustik",
+      "streamURL": "https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/playlist.m3u8",
+      "imageURL": "powerturkakustik.png",
+      "imageURLdark": "powerturkakustik.png",
+      "desc": "Müziğin Akustiği"
+    },
+    {
+      "name": "Power Türk Dans",
+      "streamURL": "https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8",
+      "imageURL": "powerturkdans.png",
+      "imageURLdark": "powerturkdans.png",
+      "desc": "Remixlenen Dans Parçaları"
+    },
+    {
+      "name": "Power Türk Taptaze",
+      "streamURL": "https://listen.powerapp.com.tr/powerturktaptaze/abr/powerturktaptaze/128/playlist.m3u8",
+      "imageURL": "powerturktaptaze.png",
+      "imageURLdark": "powerturktaptaze.png",
+      "desc": "En Yeni Türkçe Şarkılar"
+    },
+    {
+      "name": "Power Türk En İyiler",
+      "streamURL": "https://listen.powerapp.com.tr/powerturkeniyiler/abr/powerturkeniyiler/128/playlist.m3u8",
+      "imageURL": "powerturkeniyiler.png",
+      "imageURLdark": "powerturkeniyiler.png",
+      "desc": "Unutulmayan Türkçe Şarkılar"
+    },
+    {
+      "name": "Power R&B Hiphop",
+      "streamURL": "https://listen.powerapp.com.tr/powerrbhiphop/abr/powerrbhiphop/128/playlist.m3u8",
+      "imageURL": "powerhiphop.png",
+      "imageURLdark": "powerhiphop.png",
+      "desc": "Eşsiz R&B Hiphop Keyfi"
+    },
+    {
+      "name": "Power XL",
+      "streamURL": "https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/128/playlist.m3u8",
+      "imageURL": "powerxl.png",
+      "imageURLdark": "powerxl.png",
+      "desc": "Yabancı Slow Şarkılar"
+    },
+    {
+      "name": "Power Gold",
+      "streamURL": "https://listen.powerapp.com.tr/powergold/abr/powergold/128/playlist.m3u8",
+      "imageURL": "powergold.png",
+      "imageURLdark": "powergold.png",
+      "desc": "Nerede o eski şarkılar?"
+    },
+    {
+      "name": "Power Smooth Jazz",
+      "streamURL": "https://listen.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/128/playlist.m3u8",
+      "imageURL": "powersmoothjazz.png",
+      "imageURLdark": "powersmoothjazz.png",
+      "desc": "Caz Müziklerin Odağı"
+    },
+    {
+      "name": "Power Greece",
+      "streamURL": "https://listen.powerapp.com.tr/powergreece/abr/powergreece/128/playlist.m3u8",
+      "imageURL": "powergreece.png",
+      "imageURLdark": "powergreece.png",
+      "desc": "Yunan Müzik Severler Burada"
+    },
+    {
+      "name": "Number One",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/01_Number1Fm.stream/playlist.m3u8",
+      "imageURL": "N1_FM-1.png",
+      "imageURLdark": "N1_FM-1.png",
+      "desc": "Türkiye'nin bir numarası"
+    },
+    {
+      "name": "Number One Türk",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/00_Number1_Turk_FM.stream/playlist.m3u8",
+      "imageURL": "N1_TurkFM-1.png",
+      "imageURLdark": "N1_TurkFM-1.png",
+      "desc": "Daha Az Konuşma, Daha Çok Müzik"
+    },
+    {
+      "name": "Number One Türk Rap",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/30_Number1_Turk_Rap.stream/playlist.m3u8",
+      "imageURL": "n1turkrap.png",
+      "imageURLdark": "n1turkrap.png",
+      "desc": "En İyi Rap Parçaları"
+    },
+    {
+      "name": "Number One Türk Damar",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/20_Number1_Turk_Damar.stream/playlist.m3u8",
+      "imageURL": "n1turkdamar.png",
+      "imageURLdark": "n1turkdamar.png",
+      "desc": "Renkli Müzikler"
+    },
+    {
+      "name": "Number One Dance",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/06_Number1_Dance.stream/playlist.m3u8",
+      "imageURL": "number1dance.png",
+      "imageURLdark": "number1dance.png",
+      "desc": "Dans zamanı!"
+    },
+    {
+      "name": "Number One Disco",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/28_Number1_Disco.stream/playlist.m3u8",
+      "imageURL": "N1Disco.png",
+      "imageURLdark": "N1Disco.png",
+      "desc": "Kesintisiz Disko Müzik"
+    },
+    {
+      "name": "Number One Rock",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/15_Number1_Rock.stream/playlist.m3u8",
+      "imageURL": "n1rock.png",
+      "imageURLdark": "n1rock.png",
+      "desc": "Rock Müzik Grupları"
+    },
+    {
+      "name": "Number One Deep House",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/09_Number1_Deephouse.stream/playlist.m3u8",
+      "imageURL": "N1DeepHouse.png",
+      "imageURLdark": "N1DeepHouse.png",
+      "desc": "Müziğin Derinliği"
+    },
+    {
+      "name": "Number One Heart",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/10_Number1_Heart.stream/playlist.m3u8",
+      "imageURL": "n1heart.png",
+      "imageURLdark": "n1heart.png",
+      "desc": "Kalbinizi Isıtacak Şarkılar"
+    },
+    {
+      "name": "Number One Slow",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/16_Number1_Slow.stream/playlist.m3u8",
+      "imageURL": "N1slow.png",
+      "imageURLdark": "N1slow.png",
+      "desc": "En Çok Dinlenen Slow Şarkılar"
+    },
+    {
+      "name": "Number One R&B",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/17_Number1_R&B.stream/playlist.m3u8",
+      "imageURL": "n1rnb.png",
+      "imageURLdark": "n1rnb.png",
+      "desc": "Amerikan Müzik Kültürü"
+    },
+    {
+      "name": "Number One Türk Eller Havaya",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/05_Number1_Turk_Eller_Havaya.stream/playlist.m3u8",
+      "imageURL": "n1ellerhavaya.png",
+      "imageURLdark": "n1ellerhavaya.png",
+      "desc": "Oturmaya mı geldik?"
+    },
+    {
+      "name": "Number One Türk 90'lar",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/04_Number1_Turk_90.stream/playlist.m3u8",
+      "imageURL": "n1-90lar.png",
+      "imageURLdark": "n1-90lar.png",
+      "desc": "90'lı Yılların Hitleri"
+    },
+    {
+      "name": "Number One Classic",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/08_Number1_Classic.stream/playlist.m3u8",
+      "imageURL": "n1classic.png",
+      "imageURLdark": "n1classic.png",
+      "desc": "Klasik Müziğin Adresi"
+    },
+    {
+      "name": "Number One Lounge",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/12_Number1_Lounge.stream/playlist.m3u8",
+      "imageURL": "n1lounge.png",
+      "imageURLdark": "n1lounge.png",
+      "desc": "Kafanızı Dinlendirin"
+    },
+    {
+      "name": "Number One Jazz",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/22_Number1_Jazz.stream/playlist.m3u8",
+      "imageURL": "n1jazz.png",
+      "imageURLdark": "n1jazz.png",
+      "desc": "Jazz Müzikler"
+    },
+    {
+      "name": "Number One Greek",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/13_Number1_Greek.stream/playlist.m3u8",
+      "imageURL": "n1greek.png",
+      "imageURLdark": "n1greek.png",
+      "desc": "Yepyeni Yunan Müzikleri"
+    },
+    {
+      "name": "Best of Number One",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/29_Number1_BEST_OF.stream/playlist.m3u8",
+      "imageURL": "N1_BestOf.png",
+      "imageURLdark": "N1_BestOf.png",
+      "desc": "Zamanın En İyileri"
+    },
+    {
+      "name": "Max FM",
+      "streamURL": "http://wowza1.radyotvonline.com/shoutcast/maxfm.stream/playlist.m3u8",
+      "imageURL": "maxfm.png",
+      "imageURLdark": "maxfm.png",
+      "desc": "Maximum music!"
+    },
+    {
+      "name": "Kral FM",
+      "streamURL": "http://kralwmp.radyotvonline.com/;",
+      "imageURL": "kral-fm.png",
+      "imageURLdark": "kral-fm.png",
+      "desc": "İlaç Gibi Radyo"
+    },
+    {
+      "name": "Kral Pop Radyo",
+      "streamURL": "http://kralpopwmp.radyotvonline.com/;",
+      "imageURL": "kralpop.png",
+      "imageURLdark": "kralpop.png",
+      "desc": "Türkçe Popun Vazgeçilmezi"
+    },
+    {
+      "name": "Radyo Slow Time",
+      "streamURL": "https://moondigitalmaster.radyotvonline.net/slowtime/playlist.m3u8",
+      "imageURL": "slowtime.png",
+      "imageURLdark": "slowtime.png",
+      "desc": "Kalbinin Sesi"
+    },
+    {
+      "name": "Mega FM",
+      "streamURL": "http://46.105.35.48:9346/;",
+      "imageURL": "megafm.png",
+      "imageURLdark": "megafm.png",
+      "desc": "Ünlülerin Radyosu"
+    },
+    {
+      "name": "Pop 90",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/POP90_SC",
+      "imageURL": "pop90.png",
+      "imageURLdark": "pop90.png",
+      "desc": "Unutulmaz Türkçe Pop Şarkılar"
+    },
+    {
+      "name": "Radyo Alaturka",
+      "streamURL": "https://yayin.jumboserver.net:9110/stream",
+      "imageURL": "radyoalaturka.png",
+      "imageURLdark": "radyoalaturka.png",
+      "desc": "Türk Sanat Müziği"
+    },
+    {
+      "name": "Baba Radyo",
+      "streamURL": "https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8",
+      "imageURL": "babaradyo.png",
+      "imageURLdark": "babaradyo.png",
+      "desc": "Radyodan Çok Daha Fazlası"
+    },
+    {
+      "name": "45'lik",
+      "streamURL": "https://stream.radyo45lik.com:4545/stream",
+      "imageURL": "radyo45.png",
+      "imageURLdark": "radyo45.png",
+      "desc": "Türk Müziğinde İz Bırakan Şarkılar"
+    },
+    {
+      "name": "Radyo Viva",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8",
+      "imageURL": "viva.png",
+      "imageURLdark": "viva.png",
+      "desc": "Türkçe müziğin keyfi"
+    },
+    {
+      "name": "Kafa Radyo",
+      "streamURL": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
+      "imageURL": "kafa-radyo-dinle.jpg",
+      "imageURLdark": "kafa-radyo-dinle.jpg",
+      "desc": "Türkiye'nin en kafa radyosu!"
+    },
+    {
+      "name": "RetroTürk",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC",
+      "imageURL": "retroturk.png",
+      "imageURLdark": "retroturk.png",
+      "desc": "Zamansız Şarkıların Buluştuğu Tek Radyo"
+    },
+    {
+      "name": "TürkRap FM",
+      "streamURL": "http://95.173.188.166:9984/;",
+      "imageURL": "logo-3.png",
+      "imageURLdark": "logo-3.png",
+      "desc": "Türkçe Rap'in Adresi"
+    },
+    {
+      "name": "Radyo 7",
+      "streamURL": "http://radyo7hls.radyotvonline.net/radyo7/radyo7_test.stream/playlist.m3u8",
+      "imageURL": "radyo7.png",
+      "imageURLdark": "radyo7.png",
+      "desc": "İyi Müzik, Doğru Haber"
+    },
+    {
+      "name": "TRT FM",
+      "streamURL": "https://radio-trtfm.live.trt.com.tr/master.m3u8",
+      "imageURL": "trtfm.png",
+      "imageURLdark": "trtfm.png",
+      "desc": "Son Dakika Haberler ve Türkçe Şarkılar"
+    },
+    {
+      "name": "TRT Radyo 1",
+      "streamURL": "https://radio-trtradyo1.live.trt.com.tr/master.m3u8",
+      "imageURL": "trtradyo1.png",
+      "imageURLdark": "trtradyo1.png",
+      "desc": "Haber, Spor ve Müzik"
+    },
+    {
+      "name": "TRT Radyo 3",
+      "streamURL": "https://radio-trtradyo3.live.trt.com.tr/master.m3u8",
+      "imageURL": "trtradyo3.png",
+      "imageURLdark": "trtradyo3.png",
+      "desc": "Müzikte Kalitenin Adı"
+    },
+    {
+      "name": "TRT Nağme",
+      "streamURL": "https://radio-trtnagme.live.trt.com.tr/master.m3u8",
+      "imageURL": "trtnagme.png",
+      "imageURLdark": "trtnagme.png",
+      "desc": "Türk Sanat Müziğinin Adresi"
+    },
+    {
+      "name": "TRT Türkü",
+      "streamURL": "https://radio-trtturku.live.trt.com.tr/master.m3u8",
+      "imageURL": "trtturku.png",
+      "imageURLdark": "trtturku.png",
+      "desc": "Türkiye'nin Türküleri"
+    },
+    {
+      "name": "TRT Radyo Haber",
+      "streamURL": "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8",
+      "imageURL": "trtradyohaber.png",
+      "imageURLdark": "trtradyohaber.png",
+      "desc": "Haberin Radyosu"
+    },
+    {
+      "name": "TRT TSR",
+      "streamURL": "https://radio-trttsr.live.trt.com.tr/master.m3u8",
+      "imageURL": "trttsr.png",
+      "imageURLdark": "trttsr.png",
+      "desc": "Türkiye'nin Sesi Radyosu"
+    },
+    {
+      "name": "TRT Memleketim FM",
+      "streamURL": "https://radio-trtmemleketimfm.live.trt.com.tr/master.m3u8",
+      "imageURL": "trtmemleketimfm.png",
+      "imageURLdark": "trtmemleketimfm.png",
+      "desc": "Türkçe Pop Kültürü"
+    },
+    {
+      "name": "Metropol FM",
+      "streamURL": "https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac",
+      "imageURL": "metropol.png",
+      "imageURLdark": "metropol.png",
+      "desc": "Karışık Müzik"
+    },
+    {
+      "name": "İstanbul FM",
+      "streamURL": "https://stream2.rtvtakip.com:7000/;",
+      "imageURL": "istanbulfm.png",
+      "imageURLdark": "istanbulfm.png",
+      "desc": "25 yıldır seninle"
+    },
+    {
+      "name": "Radyo Voyage",
+      "streamURL": "https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8",
+      "imageURL": "voyagefmradyo.png",
+      "imageURLdark": "voyagefmradyo.png",
+      "desc": "Dünyanın Müziğine Yolculuk"
+    },
+    {
+      "name": "Radyo Turkuvaz",
+      "streamURL": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8",
+      "imageURL": "radyoturkuvaz.png",
+      "imageURLdark": "radyoturkuvaz.png",
+      "desc": "Radyonun dijital hali"
+    },
+    {
+      "name": "CNN Türk Radyo",
+      "streamURL": "https://radyo.duhnet.tv/ak_dtvh_cnnturk",
+      "imageURL": "cnn-turk-canli.png",
+      "imageURLdark": "cnn-turk-canli.png",
+      "desc": "İlk bilen siz olun"
+    },
+    {
+      "name": "Habertürk Radyo",
+      "streamURL": "https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8",
+      "imageURL": "Habertürk_Radyo_logosu.png",
+      "imageURLdark": "Habertürk_Radyo_logosu.png",
+      "desc": "Haberin Adresi"
+    },
+    {
+      "name": "Lounge FM",
+      "streamURL": "https://sc.vargonen.net:5003/;",
+      "imageURL": "loungefm.png",
+      "imageURLdark": "loungefm.png",
+      "desc": "Lounge Müzik Severlerin Radyosu"
+    },
+    {
+      "name": "Best FM",
+      "streamURL": "https://babaradyo.turkhosted.com/best/bestfm.stream/playlist.m3u8",
+      "imageURL": "bestfm.png",
+      "imageURLdark": "bestfm.png",
+      "desc": "Radyonuz Açık Olsun"
+    },
+    {
+      "name": "Pop Home",
+      "streamURL": "https://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8",
+      "imageURL": "pophome.png",
+      "imageURLdark": "pophome.png",
+      "desc": "Hit Türkçe Pop!"
+    },
+    {
+      "name": "Slow Home",
+      "streamURL": "https://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8",
+      "imageURL": "slowhome.png",
+      "imageURLdark": "slowhome.png",
+      "desc": "Hayatın Sesine Kulak Ver"
+    },
+    {
+      "name": "Rap Home",
+      "streamURL": "https://moondigitalmaster.radyotvonline.net/raphome/playlist.m3u8",
+      "imageURL": "raphome.png",
+      "imageURLdark": "raphome.png",
+      "desc": "Rap'in Radyosu"
+    },
+    {
+      "name": "Melankolik Home",
+      "streamURL": "https://moondigitalmaster.radyotvonline.net/melankolikhome/playlist.m3u8",
+      "imageURL": "melanhome.png",
+      "imageURLdark": "melanhome.png",
+      "desc": "Fantazi müziğin en iyi örnekleri burada."
+    },
+    {
+      "name": "Relax Home",
+      "streamURL": "https://moondigitalmaster.radyotvonline.net/relaxhome/playlist.m3u8",
+      "imageURL": "relaxhome.png",
+      "imageURLdark": "relaxhome.png",
+      "desc": "Rahatlamak için doğru adres"
+    },
+    {
+      "name": "Klasik Home",
+      "streamURL": "https://moondigitalmaster.radyotvonline.net/klasikhome/playlist.m3u8",
+      "imageURL": "klasikhome.png",
+      "imageURLdark": "klasikhome.png",
+      "desc": "Klasik müzik severlerin vazgeçemeyeceği bir radyo."
+    },
+    {
+      "name": "World Hits",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8",
+      "imageURL": "worldhits.png",
+      "imageURLdark": "worldhits.png",
+      "desc": "Rap'in Radyosu"
+    },
+    {
+      "name": "Radyo Vokal",
+      "streamURL": "https://moondigitalmaster.radyotvonline.net/radyovokal/playlist.m3u8",
+      "imageURL": "radyovokal.png",
+      "imageURLdark": "radyovokal.png",
+      "desc": "Rap'in Radyosu"
+    },
+    {
+      "name": "Radyo Trafik",
+      "streamURL": "https://ssl4.radyotvonline.com/radyohome/radyotrafikhome.stream_aac/playlist.m3u8",
+      "imageURL": "radyotrafik.png",
+      "imageURLdark": "radyotrafik.png",
+      "desc": "Rap'in Radyosu"
+    },
+    {
+      "name": "Yön Radyo",
+      "streamURL": "http://stream.radyolarburada.com/radio/8020/yonradyo",
+      "imageURL": "Yön_Radyo_logosu.png",
+      "imageURLdark": "Yön_Radyo_logosu.png",
+      "desc": "Türküler artık her yerde"
+    },
+    {
+      "name": "Dream Türk Radyo",
+      "streamURL": "https://radyo.duhnet.tv/dreamturk",
+      "imageURL": "dreamturk.png",
+      "imageURLdark": "dreamturk.png",
+      "desc": "Pop Hitler"
+    },
+    {
+      "name": "Radyo D",
+      "streamURL": "https://radyo.duhnet.tv/ak_dtvh_radyod",
+      "imageURL": "radyo-d.png",
+      "imageURLdark": "radyo-d.png",
+      "desc": "Müzik ve Haber"
+    },
+    {
+      "name": "Bloomberg HT Radyo",
+      "streamURL": "https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8",
+      "imageURL": "bloomberght.png",
+      "imageURLdark": "bloomberght.png",
+      "desc": "Müzik ve Gündem"
+    },
+    {
+      "name": "Halk Radyo",
+      "streamURL": "http://162.254.207.45:9302/;stream.nsv",
+      "imageURL": "halkradyo.png",
+      "imageURLdark": "halkradyo.png",
+      "desc": "Halkın Sesi Her Yerde"
+    },
+    {
+      "name": "NTV Radyo",
+      "streamURL": "http://ntvrdwmp.radyotvonline.com/;",
+      "imageURL": "ntvradyo.png",
+      "imageURLdark": "ntvradyo.png",
+      "desc": "Türkiye'nin haber radyosu"
+    },
+    {
+      "name": "A Haber Radyo",
+      "streamURL": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+      "imageURL": "ahaberradyo.png",
+      "imageURLdark": "ahaberradyo.png",
+      "desc": "Haberin Radyosu"
+    },
+    {
+      "name": "A Spor Radyo",
+      "streamURL": "https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8",
+      "imageURL": "A_Spor_logosu.png",
+      "imageURLdark": "A_Spor_logosu.png",
+      "desc": "Spor Haberlerinin Radyosu"
+    },
+    {
+      "name": "A Para Radyo",
+      "streamURL": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8",
+      "imageURL": "apara.png",
+      "imageURLdark": "apara.png",
+      "desc": "Borsa Haberlerinin Radyosu"
+    },
+    {
+      "name": "Electro Radio",
+      "streamURL": "http://stream.electroradio.fm/192k",
+      "imageURL": "electroradio.png",
+      "imageURLdark": "electroradio.png",
+      "desc": "Elektronik Müziğin Radyosu"
+    }
+  ]
+}
