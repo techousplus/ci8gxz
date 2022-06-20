@@ -64,13 +64,6 @@
       "desc": "Yabancı Nostalji Şarkılar"
     },
     {
-      "name": "Pal Remix",
-      "streamURL": "http://shoutcast.radyogrup.com:2010/;",
-      "imageURL": "palremix.png",
-      "imageURLdark": "palremix.png",
-      "desc": "Disko Cebinizde"
-    },
-    {
       "name": "Pal Besk",
       "streamURL": "http://shoutcast.radyogrup.com:3010/;",
       "imageURL": "palbesk.png",
@@ -82,7 +75,7 @@
       "streamURL": "http://shoutcast.radyogrup.com:3040/;",
       "imageURL": "palala.png",
       "imageURLdark": "palala.png",
-      "desc": "Şiir Radyo"
+      "desc": "Şiir Gibi Radyo"
     },
     {
       "name": "Mydonose",
@@ -541,14 +534,14 @@
     },
     {
       "name": "Radyo Slow Time",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/slowtime/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/slowtime/playlist.m3u8",
       "imageURL": "slowtime.png",
       "imageURLdark": "slowtime.png",
       "desc": "Kalbinin Sesi"
     },
     {
       "name": "Kent FM",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/kentfm/playlist.m3u8",
       "imageURL": "kentfm.png",
       "imageURLdark": "kentfm.png",
       "desc": "Türkiye'nin En Samimi Radyosu"
@@ -597,7 +590,7 @@
     },
     {
       "name": "Kafa Radyo",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/kafaradyo/playlist.m3u8",
       "imageURL": "kafa-radyo-dinle.jpg",
       "imageURLdark": "kafa-radyo-dinle.jpg",
       "desc": "Türkiye'nin en kafa radyosu!"
@@ -737,42 +730,42 @@
     },
     {
       "name": "Pop Home",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/pophome/playlist.m3u8",
       "imageURL": "pophome.png",
       "imageURLdark": "pophome.png",
       "desc": "Hit Türkçe Pop!"
     },
     {
       "name": "Slow Home",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/slowhome/playlist.m3u8",
       "imageURL": "slowhome.png",
       "imageURLdark": "slowhome.png",
       "desc": "Hayatın Sesine Kulak Ver"
     },
     {
       "name": "Rap Home",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/raphome/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/raphome/playlist.m3u8",
       "imageURL": "raphome.png",
       "imageURLdark": "raphome.png",
       "desc": "Rap'in Radyosu"
     },
     {
       "name": "Melankolik Home",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/melankolikhome/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/melankolikhome/playlist.m3u8",
       "imageURL": "melanhome.png",
       "imageURLdark": "melanhome.png",
       "desc": "Fantazi müziğin en iyi örnekleri burada."
     },
     {
       "name": "Relax Home",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/relaxhome/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8",
       "imageURL": "relaxhome.png",
       "imageURLdark": "relaxhome.png",
       "desc": "Rahatlamak için doğru adres"
     },
     {
       "name": "Klasik Home",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/klasikhome/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/klasikhome/playlist.m3u8",
       "imageURL": "klasikhome.png",
       "imageURLdark": "klasikhome.png",
       "desc": "Klasik müzik severlerin vazgeçemeyeceği bir radyo."
@@ -786,7 +779,7 @@
     },
     {
       "name": "Radyo Vokal",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/radyovokal/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8",
       "imageURL": "radyovokal.png",
       "imageURLdark": "radyovokal.png",
       "desc": "Türkçe Pop Müzik"
@@ -814,7 +807,7 @@
     },
     {
       "name": "Radyo Gol",
-      "streamURL": "https://moondigitalmaster.radyotvonline.net/radyogol/playlist.m3u8",
+      "streamURL": "https://moondigitaledge.radyotvonline.net/radyogol/playlist.m3u8",
       "imageURL": "radyogol.png",
       "imageURLdark": "radyogol.png",
       "desc": "Türkiye'nin En Genç Spor Radyosu!"
