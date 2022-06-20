@@ -848,13 +848,6 @@
       "desc": "Müzik ve Gündem"
     },
     {
-      "name": "Halk Radyo",
-      "streamURL": "http://162.254.207.45:9302/;stream.nsv",
-      "imageURL": "halkradyo.png",
-      "imageURLdark": "halkradyo.png",
-      "desc": "Halkın Sesi Her Yerde"
-    },
-    {
       "name": "NTV Radyo",
       "streamURL": "http://ntvrdwmp.radyotvonline.com/;",
       "imageURL": "ntvradyo.png",
