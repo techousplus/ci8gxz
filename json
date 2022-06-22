@@ -498,6 +498,13 @@
       "desc": "Jazz Müzikler"
     },
     {
+      "name": "Number One Greek",
+      "streamURL": "https://eustr75.mediatriple.net/Number1Media/13_Number1_Greek.stream/playlist.m3u8",
+      "imageURL": "n1greek.png",
+      "imageURLdark": "n1greek.png",
+      "desc": "Yepyeni Yunan Müzikleri"
+    },
+    {
       "name": "Best of Number One",
       "streamURL": "https://eustr75.mediatriple.net/Number1Media/29_Number1_BEST_OF.stream/playlist.m3u8",
       "imageURL": "N1_BestOf.png",
