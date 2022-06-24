@@ -79,14 +79,14 @@
     },
     {
       "name": "Mydonose",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC010_SO1_SC",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC010_SO1_SC?uuid=123456",
       "imageURL": "Radio_Mydonose_logosu.png",
       "imageURLdark": "Radio_Mydonose_logosu.png",
       "desc": "İlklerin Radyosu"
     },
     {
       "name": "Mydonose Türk",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC016_SO1_SC",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC016_SO1_SC?uuid=123456",
       "imageURL": "mydonoseturk.png",
       "imageURLdark": "mydonoseturk.png",
       "desc": "Hit Türkçe Şarkılar"
@@ -170,49 +170,49 @@
     },
     {
       "name": "Süper FM",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM128AAC.aac",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM128AAC.aac?uuid=123456",
       "imageURL": "super-fm-logo.png",
       "imageURLdark": "super-fm-logo.png",
       "desc": "Kaliteli Hit Şarkılar"
     },
     {
       "name": "Süper 2 FM",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2128AAC.aac",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2128AAC.aac?uuid=123456",
       "imageURL": "süperfm2logo.png",
       "imageURLdark": "süperfm2logo.png",
       "desc": "Türkçe Pop Nostalji"
     },
     {
       "name": "Joy FM",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FMAAC.aac",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FMAAC.aac?uuid=123456",
       "imageURL": "joyfm.png",
       "imageURLdark": "joyfm.png",
       "desc": "Easy Listening"
     },
     {
       "name": "JoyTurk",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac?uuid=123456",
       "imageURL": "joyturk.png",
       "imageURLdark": "joyturk.png",
       "desc": "Türkçe Slow'un En İyisi"
     },
     {
       "name": "JoyTurk Akustik",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC004_SO1AAC.aac",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC004_SO1AAC.aac?uuid=123456",
       "imageURL": "joyturkakustik.png",
       "imageURLdark": "joyturkakustik.png",
       "desc": "Biz Bize Müzik"
     },
     {
       "name": "JoyTurk Rock",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCKAAC.aac",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCKAAC.aac?uuid=123456",
       "imageURL": "joyturkrock.png",
       "imageURLdark": "joyturkrock.png",
       "desc": "Türkçe Rock'ın En İyisi"
     },
     {
       "name": "JoyJazz",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZAAC.aac",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZAAC.aac?uuid=123456",
       "imageURL": "joyjazz.png",
       "imageURLdark": "joyjazz.png",
       "desc": "Simply Jazz"
@@ -240,7 +240,7 @@
     },
     {
       "name": "Metro FM",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FMAAC_SC",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FMAAC_SC?uuid=123456",
       "imageURL": "metrofmyeni.png",
       "imageURLdark": "metrofmyeni.png",
       "desc": "Limitsiz Hit Müzik"
@@ -254,21 +254,21 @@
     },
     {
       "name": "Virgin Radio",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_SC",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_SC?uuid=123456",
       "imageURL": "virginradio.png",
       "imageURLdark": "virginradio.png",
       "desc": "Türkçe Rap ve Hip Hop"
     },
     {
       "name": "Kiss FM",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_FM128AAC.aac",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_FM128AAC.aac?uuid=123456",
       "imageURL": "kissfm.png",
       "imageURLdark": "kissfm.png",
       "desc": "Yabancı Pop Şarkılar"
     },
     {
       "name": "Kiss Türk",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_TURK128AAC.aac",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_TURK128AAC.aac?uuid=123456",
       "imageURL": "kissturk.png",
       "imageURLdark": "kissturk.png",
       "desc": "Türkçe Pop Şarkılar"
@@ -555,7 +555,7 @@
     },
     {
       "name": "Pop 90",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/POP90_SC",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/POP90_SC?uuid=123456",
       "imageURL": "pop90.png",
       "imageURLdark": "pop90.png",
       "desc": "Unutulmaz Türkçe Pop Şarkılar"
@@ -597,7 +597,7 @@
     },
     {
       "name": "RetroTürk",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC?uuid=123456",
       "imageURL": "retroturk.png",
       "imageURLdark": "retroturk.png",
       "desc": "Zamansız Şarkıların Buluştuğu Tek Radyo"
