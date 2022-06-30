@@ -366,7 +366,7 @@
     },
     {
       "name": "Power Gold",
-      "streamURL": "https://listen.powerapp.com.tr/powergold/abr/powergold/128/playlist.m3u8",
+      "streamURL": "https://live.powerapp.com.tr/powergold/abr/powergold/256/chunks.m3u8",
       "imageURL": "powergold.png",
       "imageURLdark": "powergold.png",
       "desc": "Nerede o eski şarkılar?"
