@@ -275,7 +275,7 @@
     },
     {
       "name": "Power FM",
-      "streamURL": "https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8",
+      "streamURL": "https://live.powerapp.com.tr/powerfm/abr/playlist.m3u8",
       "imageURL": "powerFM.png",
       "imageURLdark": "powerFM.png",
       "desc": "En İyi En Yeni Müzik"
@@ -310,7 +310,7 @@
     },
     {
       "name": "Power Türk",
-      "streamURL": "https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
+      "streamURL": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8",
       "imageURL": "powerturk.png",
       "imageURLdark": "powerturk.png",
       "desc": "Önce Müzik"
@@ -366,7 +366,7 @@
     },
     {
       "name": "Power Gold",
-      "streamURL": "https://live.powerapp.com.tr/powergold/abr/powergold/256/chunks.m3u8",
+      "streamURL": "https://live.powerapp.com.tr/powergold/abr/playlist.m3u8",
       "imageURL": "powergold.png",
       "imageURLdark": "powergold.png",
       "desc": "Nerede o eski şarkılar?"
