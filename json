@@ -534,7 +534,7 @@
     },
     {
       "name": "Radyo Slow Time",
-      "streamURL": "https://moondigitaledge.radyotvonline.net/slowtime/playlist.m3u8",
+      "streamURL": "https://ssl4.radyotvonline.com/radyohome/slowtimehome.stream_aac/playlist.m3u8",
       "imageURL": "slowtime.png",
       "imageURLdark": "slowtime.png",
       "desc": "Kalbinin Sesi"
