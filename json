@@ -737,21 +737,21 @@
     },
     {
       "name": "Pop Home",
-      "streamURL": "https://moondigitaledge.radyotvonline.net/pophome/playlist.m3u8",
+      "streamURL": "https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8",
       "imageURL": "pophome.png",
       "imageURLdark": "pophome.png",
       "desc": "Hit Türkçe Pop!"
     },
     {
       "name": "Slow Home",
-      "streamURL": "https://moondigitaledge.radyotvonline.net/slowhome/playlist.m3u8",
+      "streamURL": "https://ssl4.radyotvonline.com/radyohome/slowhome.stream_aac/playlist.m3u8",
       "imageURL": "slowhome.png",
       "imageURLdark": "slowhome.png",
       "desc": "Hayatın Sesine Kulak Ver"
     },
     {
       "name": "Rap Home",
-      "streamURL": "https://moondigitaledge.radyotvonline.net/raphome/playlist.m3u8",
+      "streamURL": "https://ssl4.radyotvonline.com/radyohome/raphome.stream_aac/playlist.m3u8",
       "imageURL": "raphome.png",
       "imageURLdark": "raphome.png",
       "desc": "Rap'in Radyosu"
@@ -765,14 +765,14 @@
     },
     {
       "name": "Relax Home",
-      "streamURL": "https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8",
+      "streamURL": "https://ssl4.radyotvonline.com/radyohome/relaxhome.stream_aac/playlist.m3u8",
       "imageURL": "relaxhome.png",
       "imageURLdark": "relaxhome.png",
       "desc": "Rahatlamak için doğru adres"
     },
     {
       "name": "Klasik Home",
-      "streamURL": "https://moondigitaledge.radyotvonline.net/klasikhome/playlist.m3u8",
+      "streamURL": "https://ssl4.radyotvonline.com/radyohome/klasikhome.stream_aac/playlist.m3u8",
       "imageURL": "klasikhome.png",
       "imageURLdark": "klasikhome.png",
       "desc": "Klasik müzik severlerin vazgeçemeyeceği bir radyo."
@@ -786,7 +786,7 @@
     },
     {
       "name": "Radyo Vokal",
-      "streamURL": "https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8",
+      "streamURL": "https://ssl4.radyotvonline.com/radyohome/radyovokal.stream_aac/playlist.m3u8",
       "imageURL": "radyovokal.png",
       "imageURLdark": "radyovokal.png",
       "desc": "Türkçe Pop Müzik"
