@@ -548,7 +548,7 @@
     },
     {
       "name": "Kent FM",
-      "streamURL": "http://46.20.7.101/stream/267/",
+      "streamURL": "http://yayin2.yayindakiler.com:4056/stream",
       "imageURL": "kentfm.png",
       "imageURLdark": "kentfm.png",
       "desc": "Türkiye'nin En Samimi Radyosu"
