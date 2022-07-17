@@ -548,7 +548,7 @@
     },
     {
       "name": "Kent FM",
-      "streamURL": "https://moondigitaledge.radyotvonline.net/kentfm/playlist.m3u8",
+      "streamURL": "http://46.20.7.101/stream/267/",
       "imageURL": "kentfm.png",
       "imageURLdark": "kentfm.png",
       "desc": "Türkiye'nin En Samimi Radyosu"
@@ -691,7 +691,7 @@
       "streamURL": "https://stream2.rtvtakip.com:7000/;",
       "imageURL": "istanbulfm.png",
       "imageURLdark": "istanbulfm.png",
-      "desc": "25 yıldır seninle"
+      "desc": "Senin İçin"
     },
     {
       "name": "Radyo Voyage",
@@ -758,7 +758,7 @@
     },
     {
       "name": "Melankolik Home",
-      "streamURL": "https://moondigitaledge.radyotvonline.net/melankolikhome/playlist.m3u8",
+      "streamURL": "http://37.247.98.8/stream/20/",
       "imageURL": "melanhome.png",
       "imageURLdark": "melanhome.png",
       "desc": "Fantazi müziğin en iyi örnekleri burada."
@@ -779,7 +779,7 @@
     },
     {
       "name": "World Hits",
-      "streamURL": "https://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8",
+      "streamURL": "http://37.247.98.8/stream/34/",
       "imageURL": "worldhits.png",
       "imageURLdark": "worldhits.png",
       "desc": "“Hit” ler burada..."
@@ -814,7 +814,7 @@
     },
     {
       "name": "Radyo Gol",
-      "streamURL": "https://moondigitaledge.radyotvonline.net/radyogol/playlist.m3u8",
+      "streamURL": "https://wowza1.radyotvonline.com/unitedmedia/radyogol.stream/playlist.m3u8",
       "imageURL": "radyogol.png",
       "imageURLdark": "radyogol.png",
       "desc": "Türkiye'nin En Genç Spor Radyosu!"
