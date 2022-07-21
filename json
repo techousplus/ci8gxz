@@ -36,13 +36,6 @@
       "desc": "Unutulmayan Şarkılar"
     },
     {
-      "name": "Pal Dance",
-      "streamURL": "http://shoutcast.radyogrup.com:2030/;",
-      "imageURL": "paldance.png",
-      "imageURLdark": "paldance.png",
-      "desc": "Dans Hit Şarkılar"
-    },
-    {
       "name": "Pal Alaturka",
       "streamURL": "http://shoutcast.radyogrup.com:3050/;",
       "imageURL": "palalaturka.png",
@@ -69,13 +62,6 @@
       "imageURL": "palbesk.png",
       "imageURLdark": "palbesk.png",
       "desc": "Bir Radyodan Daha Fazlası"
-    },
-    {
-      "name": "Pal Ala",
-      "streamURL": "http://shoutcast.radyogrup.com:3040/;",
-      "imageURL": "palala.png",
-      "imageURLdark": "palala.png",
-      "desc": "Şiir Gibi Radyo"
     },
     {
       "name": "Mydonose",
